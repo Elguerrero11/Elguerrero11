@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Stellar-Framework](https://github.com/Elguerrero11/Stellar-Framework) and on [Stellar-Minigame-Framework](https://github.com/Elguerrero11/Stellar-Minigame-Framework)<br>
 🌱 I’m currently learning Java<br>
-💬 Ask me about Java, Gradle and develope minecraft plugins<br>
+💬 You can ask me about Java, Gradle and develope minecraft plugins<br>
 📗 Knowledge of develop minecraft plugins using Spigot-API and Paper-API<br>
 
 
