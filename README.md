@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elguerrero|MoonWalker</h1>
-<h3 align="center">A small developer, currently learning and improving my skills.</h3>
+<h3 align="center">Junior developer, currently learning and improving my skills.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on [Stellar-Framework](https://github.com/Elguerrero11/Stellar-Framework) and on [Stellar-Minigame-Framework](https://github.com/Elguerrero11/Stellar-Minigame-Framework)<br>
