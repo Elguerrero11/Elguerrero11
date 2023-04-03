@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elguerrero|MoonWalker</h1>
+<center><h1 align="center">Hi 👋, I'm Elguerrero|MoonWalker</h1>
 <h3 align="center">A small developer, currently learning and improving my skills.</h3>
 
 
@@ -9,7 +9,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)  Elguerrero|MoonWalker#8804
 
 # 💻 Tech Stack:
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -37,6 +37,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elguerrero11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Elguerrero11&icon=5&color=1)](https://visitcount.itsvg.in)
-
+</center>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
