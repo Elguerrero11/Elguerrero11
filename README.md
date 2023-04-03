@@ -13,10 +13,7 @@
 # 💻 Tech Stack:
 <p> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
     <img src="https://imgs.search.brave.com/xaiwRMZt_NxhT2lTZ0dOY-U5grbHGtDOEVtrcH7doMM/rs:fit:924:638:1/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9H/cmFkbGVfbG9nb18w/Mi5wbmc" alt="gradle" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.daniviana.com%2Fimgs%2Ficons%2FSQL%2520Icon.png&f=1&nofb=1&ipt=aafd8a79003edc9743b9b2b27bf766c65c3fa777e393cf896e734d8db8e17f5f&ipo=images" alt="sql" width="40" height="40"/> 
 </p>
 
