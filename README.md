@@ -5,7 +5,7 @@
 🔭 I’m currently working on [Stellar-Framework](https://github.com/Elguerrero11/Stellar-Framework) and on [Stellar-Minigame-Framework](https://github.com/Elguerrero11/Stellar-Minigame-Framework)<br>
 🌱 I’m currently learning Java<br>
 💬 You can ask me about Java, Gradle and develope minecraft plugins<br>
-📗 Knowledge of develop minecraft plugins using Spigot-API and Paper-API<br>
+📗 I have knowledge of develop minecraft plugins using Spigot-API and Paper-API<br>
 
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)  Elguerrero|MoonWalker#8804
