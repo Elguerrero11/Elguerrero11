@@ -6,6 +6,7 @@
 🌱 I’m currently learning Java<br>
 💬 You can ask me about Java, Gradle and develope minecraft plugins<br>
 📗 I have knowledge of develop minecraft plugins using Spigot-API and Paper-API<br>
+🚀 I love the innovation<br>
 
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)  Elguerrero|MoonWalker#8804
