@@ -20,9 +20,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://readmestats.999857.xyz/api?username=Elguerrero11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://readmestats.999857.xyz/github-readme-streak-stats/?user=Elguerrero11&theme=tokyonight&hide_border=false)<br/>
-![](https://readmestats.999857.xyz/api/top-langs/?username=Elguerrero11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.zohan.tech/api?username=Elguerrero11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.zohan.tech/github-readme-streak-stats/?user=Elguerrero11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.zohan.tech/api/top-langs/?username=Elguerrero11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </center>
 
